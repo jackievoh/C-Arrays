@@ -1,0 +1,15 @@
+E:\Visual\repos\Deliverable 4\bin\Debug\net6.0\Deliverable 4.exe
+E:\Visual\repos\Deliverable 4\bin\Debug\net6.0\Deliverable 4.deps.json
+E:\Visual\repos\Deliverable 4\bin\Debug\net6.0\Deliverable 4.runtimeconfig.json
+E:\Visual\repos\Deliverable 4\bin\Debug\net6.0\Deliverable 4.dll
+E:\Visual\repos\Deliverable 4\bin\Debug\net6.0\Deliverable 4.pdb
+E:\Visual\repos\Deliverable 4\obj\Debug\net6.0\Deliverable 4.csproj.AssemblyReference.cache
+E:\Visual\repos\Deliverable 4\obj\Debug\net6.0\Deliverable 4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual\repos\Deliverable 4\obj\Debug\net6.0\Deliverable 4.AssemblyInfoInputs.cache
+E:\Visual\repos\Deliverable 4\obj\Debug\net6.0\Deliverable 4.AssemblyInfo.cs
+E:\Visual\repos\Deliverable 4\obj\Debug\net6.0\Deliverable 4.csproj.CoreCompileInputs.cache
+E:\Visual\repos\Deliverable 4\obj\Debug\net6.0\Deliverable 4.dll
+E:\Visual\repos\Deliverable 4\obj\Debug\net6.0\refint\Deliverable 4.dll
+E:\Visual\repos\Deliverable 4\obj\Debug\net6.0\Deliverable 4.pdb
+E:\Visual\repos\Deliverable 4\obj\Debug\net6.0\Deliverable 4.genruntimeconfig.cache
+E:\Visual\repos\Deliverable 4\obj\Debug\net6.0\ref\Deliverable 4.dll
